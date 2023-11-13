@@ -9,7 +9,7 @@ The goal of this challenge was to build a fully functional quiz game. It involve
 2. Have fun with my Quiz 🥳
 
 ## Website
-<a href="">Thee Challenge Quiz 👅</a>
+<a href="https://jhettortle.github.io/Thee-Challenge/index.html">Thee Challenge Quiz 👅</a>
 
 ## Author 
 Joshua Garcia 
